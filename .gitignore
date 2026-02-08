@@ -1,0 +1,23 @@
+# eclipse
+*.launch
+.settings
+.metadata
+.classpath
+.project
+/bin/
+
+# idea
+*.ipr
+*.iws
+*.iml
+/out/
+/.idea/
+
+# vscode
+/.vscode/
+
+# fleet
+/.fleet/
+
+# MacOS
+*.DS_Store
